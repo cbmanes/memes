@@ -1,2 +1,2 @@
-document.getElementById("foot01").innerHTML =
-"<p>&copy;  " + new Date().getFullYear() + " carl azuz is satan</p>";
+document.getElementById("foot01").innerHTML = Date()">
+Click me to display Date and Time.;
